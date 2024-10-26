@@ -3,7 +3,7 @@
 
 I am Kacper from Poland, and I am currently studying Computer Science at Warsaw University of Technology. Curently working as a junior programmer in Acram Digital.
 
-- 🔭 I’m currently working on **projects in C#, Unity**
+- 🔭 I’m currently working on projects in **C#, Unity**
 
 - 🌱 I’m currently learning **C++, Kotlin**
 
